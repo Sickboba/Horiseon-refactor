@@ -4,4 +4,4 @@
 
 ![Screenshot of Horiseon website](./assets/images/horiseon-screenshot.png)
 
-![Link to Horiseon website](https://sickboba.github.io/homework-1/)
+https://sickboba.github.io/homework-1/
